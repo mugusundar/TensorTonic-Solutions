@@ -1,0 +1,1 @@
+`NaN` is a float value.
