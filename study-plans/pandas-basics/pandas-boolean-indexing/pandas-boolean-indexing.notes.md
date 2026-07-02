@@ -1,0 +1,1 @@
+Boolean indexing is the primary mechanism for filtering rows in pandas.
