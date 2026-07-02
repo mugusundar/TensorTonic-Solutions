@@ -4,7 +4,6 @@ def boolean_filter(data, column, threshold):
     """
     Returns: dict with 'filtered_data' (dict) and 'count' (int)
     """
-    pass
     df = pd.DataFrame(data)
     mask = df[column] > threshold
     df2 = df[mask]
